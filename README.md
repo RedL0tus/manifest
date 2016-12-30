@@ -1,4 +1,4 @@
-The PureNexus Project
+The PureNexus Project -- with Brevent
 =====================
 
 Getting Started
@@ -10,7 +10,7 @@ To build PureNexus from source, you'll need to be familiar with
 
 To initialize your local repository, use this command:
 
-	repo init -u https://github.com/PureNexusProject/manifest.git -b android-7.1
+	repo init -u https://github.com/RedL0tus/manifest.git -b android-7.1
 
 Then to sync source, use this command:
 
@@ -33,3 +33,5 @@ Enjoy, Stick around for a while AOSP Building is Fun!!!
 [PureNexus Community](https://plus.google.com/u/0/communities/103055954354785266764) on Google+
 
 [PureNexusProject-Legacy](https://github.com/PureNexusProject-Legacy) Old Source and Reference code
+
+[PureNexusProject](https://github.com/PureNexusProject) Origin project
