@@ -59,7 +59,7 @@ revision="android-7.1" />
   <project path="vendor/pure" name="android_vendor_pure" remote="rl" revision="android-7.1" />
 
   <!-- Kernel Source -->
-  <project path="kernel/lge/bullhead" name="android_kernel_lge_bullhead" groups="device,bullhead" remote="rl" revision="android-7.1" />
+  <project path="kernel/lge/bullhead" name="bullhead" groups="device,bullhead" remote="rl" revision="android-7.1" />
 
   <!-- Proprietary Vendors -->
   <project path="vendor/lge" name="proprietary_vendor_lge" remote="pure" revision="android-7.1" />
