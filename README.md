@@ -1,12 +1,13 @@
-The PureNexus Project -- with Brevent
+The PureNexus Project-SFMod
 =====================
 
 Getting Started
 ---------------
 
-To build PureNexus from source, you'll need to be familiar with
+To build PureNexus-SFMod from source, you'll need to be familiar with
 [Git and Repo](http://source.android.com/download/using-repo).
 
+**Only support Nexus 5X (bullhead)**
 
 To initialize your local repository, use this command:
 
@@ -19,9 +20,8 @@ Then to sync source, use this command:
 After syncing is done, use these commands to build:
 
     1.) . build/envsetup.sh
-    2.) brunch xxxx yyyy
+    2.) brunch bullhead yyyy
     
-    xxxx= device name aka shamu
     yyyy= build type (user,userdebug,eng)*
 
     *if no build type is specified "user" is default
